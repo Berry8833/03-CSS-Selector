@@ -1,0 +1,34 @@
+/* Universal Selector */
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* My Bio Selector */
+body {
+    background-color: rgb(180, 170, 85);
+}
+
+header,
+footer {
+    width: 100%;
+    height: 100px;
+    line-height: 100px;
+    color: rgb(43, 1, 43);
+    background-color: rgb(191, 216, 212);
+}
+
+figure {
+    width: 200px;
+    background-color: lightblue;
+    text-align: center;
+}
+
+/* Myself Selector*/
+.snow {
+    font-weight: bolder;
+}
+
+/* My Contact Information Selector*/
+#My-contact {
+    background-color: palegreen;
+}
